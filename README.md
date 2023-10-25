@@ -6,7 +6,7 @@
 
 🌱 | No momento estou focada em aprender mais da programção front-end (HTML, CSS, JavaScript, demais frameworks e bibliotecas) e Back-end.
 
-🚀 | Meu objetivo no futuro e me tornar um desenvolvedor Fullstack.
+🚀 | Aprimorando continuamente minhas habilidades na programação.
 
 
 ### Tecnologias conhecidas <br>
